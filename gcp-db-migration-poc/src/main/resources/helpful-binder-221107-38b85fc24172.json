@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "helpful-binder-221107",
+  "private_key_id": "38b85fc2417253677584a6e71801dbb649f524e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6a1MsPL73HXQI\ne3+kuHPhbzkm/FFWPwBeHXfzeaOrwWSlHuHkvL0RZkV4V8hrIB33R0a0MD8WQ9Fe\n/g/OwGWl0/ws3plMTTRZnmASUdhrFK8VZakSUXjhMxWZ+d88JUmlL/OAHrtNCiw7\nZnopUlRbjayq9IOSzgKggQojTea5NnbH1WqbsYbIvPDz0pISNTay1xEJTQt2oXmi\nm7NsX5dlu0R2zrm7Uwzxv7jS7QHHGFFtUxLme/J8jogKyrieMCxJIALQ5ilLyalS\nZbGaFywYRjV3KAEiEfFHSKlpimFp0JhjvjnNU5Lv3NiPwrdoZfRsy14DuXaLASf+\nK87bCRHnAgMBAAECggEAHfBPnBVTbAIdw6D7N8aXIbeIRmO+YlYIO+qKpvO8SUDB\nZlKxNQLqGxRsMsQSVWtZNKs3Rof7EcXUJxKGvQ3MJVeIB+K7XEmH5J6upN03ycFk\nJFET1/PKsIwmO3jUP7y9+PAHBhFUGQQkZL5z/xU6+WB66xJi28hccU+Crncmh0xa\n6WtEfVz+F8rzJx4CInUJiPbxzr3XKLmAX8cD8S1E8J5GCYVrnDykK5dSW9D57SW5\nFNamQiHjwWzklInqoTj8b8qG+J2E/YcD6POlbE1KMjkxiUwne25DFTCK1O2Bin26\n5oKTsJcr+1woLmMNe9Sg7ZCtTtb0dQlDzOkrk8sbgQKBgQDfO9xaEnjj6EqsYj0f\nM7Eeq5di5TdrnxVUsercRpdmJIsNr2O3zwS0o4DHaGvqXWHGlOYCJNDqnDJvv4IY\nCLbJiOJK8jQH1nkC1bC7Q+v7s6xeYeRaAzHqKRKlV//0DWZ6/ILr5PWmts4zH6Pc\ntUEqM17WnvjDVRkzawoc2ku0gQKBgQDVyCJ67aEwMECDXCvevr0CUf8vp5GzYjcQ\nt5y8iK9YDlpUNM5dzVhkeCyc8r1N7NQsiGcnFwuMwnat7sntLTVOi1Lv+5yUCHV3\n36JE77+6P9kY2gvPLpgBCNMEowOxTnBIhX9pN8u+8gs5TnXcDXJq4gWgellSUDnU\nU6RgjzJyZwKBgGhqGXFP/periXIEKU604P3ViOPLDxcZu+J3rcEGi75NDXWDOgM5\no5vSdmPPJdrjft5huwv5qHZ0ROscCn+vY7/0dNRVYZzg5o064oVVCcYbjl4/L44i\nvHAocf5AoQnIUszn21z3JSerjds/y2dqqGZSzONaTEUhQr5YLMy+FncBAoGBAL6c\nnbHBoxDWVQ9K5YrLwrcI6WFSJaUuEy8Cp+uqa701vvCJzN7yMrgSNqUSAhwy59N1\nI5RFBfVRhoP6/2xL/NW1gBOd4rRS/noNmh+hLPAh8a4o7JKkVr/FYHEn8CjtaUwg\nS8RDDZWJNty3ynqUOsp2ENJPhMjR414f3daCl1ZNAoGBAIcRCna+4dV83RkJSH1n\nLqj/DvaNJJ55WIEbLrx/813rFW5/ttrYFlKuN06diLx1JJUNFBO6eoFOJ2/b+ho7\n2BFPdWlGvczeGFLHGQdf6mFQy5x3JE8Dx+NZ59TazLOp+ZCXV1o1O7mDbTw0D4wB\nZiOgW+TvDPr0bfKgJu+5ynix\n-----END PRIVATE KEY-----\n",
+  "client_email": "db-migrater-sa@helpful-binder-221107.iam.gserviceaccount.com",
+  "client_id": "114655681845890874816",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/db-migrater-sa%40helpful-binder-221107.iam.gserviceaccount.com"
+}

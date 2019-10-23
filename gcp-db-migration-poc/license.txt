@@ -1,0 +1,9 @@
+/*
+ * SANJIB PAL sanjibpal.india@gmail.com
+ * Copyright (c) 2018 Sanjib Pal.
+ * All Rights Reserved. 
+ * 
+ * NOTICE: All information contained herein is, and remains the property of 
+ * Sanjib Pal. The intellectual and technical concepts contained 
+ * herein are proprietary to Sanjib Pal.
+ */
