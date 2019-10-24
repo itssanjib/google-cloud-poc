@@ -1,6 +1,9 @@
 # gcp-db-migration-poc
 POC on google cloud for database migration.
 
+## Configuration
+Configure application.properties file as per requirement.
+
 ## CURL
 curl -X POST \
   http://localhost:8080/migrate/mysql/sql_dump \
