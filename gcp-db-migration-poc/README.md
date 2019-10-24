@@ -5,6 +5,7 @@ POC on google cloud for database migration.
 Configure properties file as per requirement.
 
 In application.properties add service account's email id.
+
 In private key json file add private key as well as add service account's email id.
 
 ## CURL
