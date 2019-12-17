@@ -1,5 +1,5 @@
 # gcp-db-migration-poc
-POC on google cloud for database migration.
+POC on google cloud for database migration for MySQL as well as PostgreSQL
 
 ## Configuration
 Configure properties file as per requirement.
